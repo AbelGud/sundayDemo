@@ -18,5 +18,13 @@
   "devDependencies": {
     "nodemo": "^1.0.0",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelGud/sundayDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbelGud/sundayDemo/issues"
+  },
+  "homepage": "https://github.com/AbelGud/sundayDemo#readme"
 }
